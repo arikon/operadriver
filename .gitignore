@@ -15,11 +15,12 @@ GSYMS
 GTAGS
 VERSION
 bin/*
-doc/
+docs/
 out/*
 pkg/*
 probedata/
 protos/temp.proto
+release/
 src/com/opera/core/systems/test/**/*
 test-output/
 test-reports/
